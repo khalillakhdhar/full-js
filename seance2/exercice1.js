@@ -18,3 +18,4 @@ function CalculeTTC(net)
     console.log(`le montant de la tva est : ${tva} et le montant ttc est : ${ttc} pour un montant net de : ${net}`) // interpolation de chaine de caractere avec altgr+7
 }
 CalculeTTC(net);
+//
