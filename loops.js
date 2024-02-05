@@ -14,7 +14,7 @@ pays=[ {nom:"maroc",capitale:"rabat"} ,{nom:"france",capitale:"paris"},{nom:"esp
 for(let x in pays){
  console.log(pays[x].nom+" "+pays[x].capitale)
 }
-voitures=["bmw","mercedes","audi"]
+voitures=["bmw","mercedes","audi",22,false]
 for(let x of voitures){
  console.log(x)
 }
